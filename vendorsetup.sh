@@ -1,0 +1,2 @@
+add_lunch_combo cm_metis-userdebug
+add_lunch_combo cm_metis-eng
