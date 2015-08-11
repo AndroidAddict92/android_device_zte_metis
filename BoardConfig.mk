@@ -25,7 +25,7 @@ BOARD_MKBOOTIMG_ARGS := --kernel_offset 0x00008000 --ramdisk_offset 0x02000000 -
 TARGET_PREBUILT_KERNEL := device/zte/metis/kernel
 
 # kernel source
-TARGET_KERNEL_CONFIG := msm8960-metis_defconfig
+TARGET_KERNEL_CONFIG := cm_metis_defconfig
 TARGET_KERNEL_SOURCE := kernel/zte/msm8960
 
 BOARD_BOOTIMAGE_PARTITION_SIZE := 0x105c0000
